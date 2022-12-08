@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+main{
+    background-color: #D482F5;   
+}
+
+.button1{
+    background-color: #f01600;
+    font-weight: bold;
+    color: #ecf0f1;
+}
+
+.button2{
+    font-weight: bold;
+}
+
+#button3{
+    background-color: #25db72;
+    font-weight: bold;
+    color:#ecf0f1;
+}
+
+/* .div2{
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+#img1{
+    margin:0.15rem;
+    background-color: #25db72;
+}
+
+.tag1{
+    text-decoration: none;
+    color: #f1c40f;
+    margin-left: 0.25rem;
+}
