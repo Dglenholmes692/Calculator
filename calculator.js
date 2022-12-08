@@ -1,7 +1,7 @@
 document.getElementById("answer").readOnly = true;
 
 let screen = document.getElementById("answer")
-buttons = document.querySelectorAll("button");
+button = document.querySelectorAll("button");
 let screenValue = "";
 for (item of button){
     item.addEventListener("click", (e) => {
